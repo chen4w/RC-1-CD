@@ -5,7 +5,6 @@ int main()
     const int d = 30; // 板凳高度
 
     int number[10];
-
     for (int i = 0; i < 10; i++) // 输入苹果高度
         scanf("%d", &number[i]);
 
